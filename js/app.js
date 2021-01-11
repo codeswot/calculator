@@ -21,6 +21,4 @@ function clearScreen(){
     
     document.getElementById('calc_screen').innerHTML='0';
 }
-//test another line
-//TODO remember to add the bracket functionality to the calculator
-//hello comment
+
